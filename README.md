@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Justinn
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Time-series forecasting
-- 📫 How to reach me ...
+- 👀 I’m interested in AI,IOT
+- 🌱 I’m learning C,Python
 
 <!---
 Justinnguyen30102003/Justinnguyen30102003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
